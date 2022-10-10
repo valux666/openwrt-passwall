@@ -2,7 +2,7 @@ name: test
 
 on:
   push:
-    branches: [ "naiveproxy" ]
+    branches: [ "naiveproxy" ] 
   pull_request:
     branches: [ "naiveproxy" ]
 
