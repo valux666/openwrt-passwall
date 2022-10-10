@@ -2,9 +2,9 @@ name: test
 
 on:
   push:
-    branches: [ "packages" ]
+    branches: [ "naiveproxy" ]
   pull_request:
-    branches: [ "packages" ]
+    branches: [ "naiveproxy" ]
 
 jobs:
   build:
